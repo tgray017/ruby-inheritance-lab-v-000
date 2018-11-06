@@ -24,3 +24,4 @@ jim.first_name = "Jim"
 jim.last_name = "Smith"
 jim.learn(some_knowledge)
 
+some_other_knowledge = avi.teach
