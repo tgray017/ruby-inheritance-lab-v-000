@@ -19,5 +19,5 @@ steve.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
-puts steve.instance_methods
-puts avi.instance_methods
+puts steve.class_methods
+puts avi.class_methods
